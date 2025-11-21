@@ -1,4 +1,4 @@
-# Desenvolvedor de Software | Backend & Sistemas Distribuídos
+# Desenvolvedor de Software Backend 
 
 Desenvolvedor de Software com foco principal em **Backend** utilizando ecossistemas robustos como **NestJS**, **Java (Spring Boot)** e **Golang**.
 
