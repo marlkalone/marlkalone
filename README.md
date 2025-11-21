@@ -22,8 +22,6 @@ Tecnologias que utilizo ativamente para construir aplicações escaláveis.
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go">
 </div>
 
-<br>
-
 #### 🗄️ Banco de Dados & Infra
 <div align="left">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
@@ -34,8 +32,6 @@ Tecnologias que utilizo ativamente para construir aplicações escaláveis.
   &nbsp;
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </div>
-
-<br>
 
 #### 🛠️ Ferramentas & Testes
 <div align="left">
